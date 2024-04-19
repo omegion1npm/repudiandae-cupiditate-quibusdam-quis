@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@omegion1npm/repudiandae-cupiditate-quibusdam-quis",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,14 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/omegion1npm/repudiandae-cupiditate-quibusdam-quis.git"
   },
   "dependencies": {
+    "@omegion1npm/ab-consequuntur-illum-architecto": "^1.0.0",
+    "@omegion1npm/eligendi-harum-porro-numquam": "^1.0.0",
+    "@omegion1npm/eveniet-temporibus-dignissimos-temporibus": "^1.0.0",
+    "@omegion1npm/facere-ullam-excepturi-facilis": "^1.0.0",
+    "@omegion1npm/nemo-tempore-cum-voluptas": "^1.0.0",
+    "@omegion1npm/odit-enim-cum-aliquid": "^1.0.0"
   }
 }
